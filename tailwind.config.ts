@@ -75,6 +75,11 @@ export default {
 				'montserrat': ['Montserrat', 'sans-serif'],
 				'poppins': ['Poppins', 'sans-serif'],
 			},
+			boxShadow: {
+				'elegant': '0 10px 30px -10px hsl(207 63% 28% / 0.3)',
+				'card': '0 4px 20px hsl(207 63% 28% / 0.15)',
+				'accent': '0 8px 25px hsl(28 85% 52% / 0.4)',
+			},
 			keyframes: {
 				'accordion-down': {
 					from: { height: '0' },
